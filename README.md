@@ -36,7 +36,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
   </a> 
   <a href="http://rasbt.github.io/mlxtend/" target="_blank" rel="noreferrer"> 
-    <img src="images/mlxtend_logo.png" alt="mlxtend" width="40" height="40"/> 
+    <img src="https://github.com/AKookani/AKookani/raw/main/logo2.png" alt="mlxtend" width="40" height="40"/> 
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
@@ -45,7 +45,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
   <a href="https://github.com/mit-han-lab/torchgeo" target="_blank" rel="noreferrer"> 
-    <img src="images/torchgeo_logo.svg" alt="torchgeo" width="40" height="40"/> 
+    <img src="https://github.com/AKookani/AKookani/raw/main/logo1.png" alt="torchgeo" width="40" height="40"/> 
   </a> 
 </p>
 
