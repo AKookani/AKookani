@@ -29,9 +29,9 @@
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=akookani&show_icons=true&locale=en&theme=dracula&include_all_commits=true&count_private=true" alt="akookani" />
     </td>
-    <!-- GitHub Streak -->
+    <!-- GitHub Streak with custom fire color -->
     <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akookani&theme=dracula" alt="akookani" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akookani&theme=dracula&ring=FFA500&fire=FFA500" alt="akookani" />
     </td>
   </tr>
 </table>
