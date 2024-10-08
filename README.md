@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Neuro-Symbolic AI](https://github.com/AKookani/NLR)
+- 🔭 I’m currently working on the intersection of **[Symbolic AI](https://github.com/AKookani/Association-rules-generation-from-frequent-itemsets), [Recommender Systems](https://github.com/AKookani/Collaborative-Filtering-for-Movie-Recommendations), and [Graph Neural Network](https://github.com/AKookani/Graph-representation-learning-with-node2vec)** for building a **[neuro-symbolic recommender system](https://github.com/AKookani/NLQ)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
