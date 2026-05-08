@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python, Pytorch,Tensorflow" /><br>
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,postgres,mysql,mongodb,docker,linux,latex,git" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,,latex,git" />
   </a>
 </p>
 
