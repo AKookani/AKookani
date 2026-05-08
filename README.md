@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Kookani</h1>
-<h3 align="center">Doctoral Researcher · AI for Quantum Simulation</h3>
-
-<br/>
-
-<p align="center">
-  🔭 &nbsp;Researching <strong>artificial intelligence for quantum simulation</strong>
-</p>
+<h3 align="center">Doctoral Researcher | AI for Quantum Simulation</h3>
 
 ---
 
