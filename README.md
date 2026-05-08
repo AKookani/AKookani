@@ -9,18 +9,14 @@
 <div style="display: inline_block"><br>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="50" width="60" alt="Matlab"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" height="50" width="60" alt="Matplotlib"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="50" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" width="60" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" width="60" alt="PyTorch"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" width="60" alt="Scikit-learn"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" width="60" alt="Seaborn"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="50" width="60" alt="TensorFlow"/>
   <img src="https://github.com/AKookani/AKookani/raw/main/logo2.png" height="50" width="60" alt="MLxtend"/>
   <img src="https://github.com/AKookani/AKookani/raw/main/logo1.png" height="50" width="60" alt="TorchGeo"/>
-  <!-- Updated SymPy icon -->
-  <img src="https://www.sympy.org/static/images/logo.png" height="50" width="60" alt="SymPy"/>
 </div>
 
 # <table>
