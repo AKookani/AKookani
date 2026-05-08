@@ -8,6 +8,9 @@
 </h2>
 
 <p align="center">
+   href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="50"/>
+  <img 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python, Pytorch,Tensorflow" /><br>
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,,latex,git" />
