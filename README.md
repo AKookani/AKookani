@@ -7,7 +7,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" width="80" alt="Git"/>
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" height="80" width="80" alt="GitHub"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" width="80" alt="Python"/>
     </td>
     <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="80" width="80" alt="Keras"/>
@@ -25,7 +28,7 @@
       <img src="https://qutip.org/images/logo.png" height="80" width="80" alt="QuTiP"/>
     </td>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="80" width="80" alt="LaTeX"/>
+      <img src="https://images.ctfassets.net/nrgyaltdicpt/7d1pQ6LXAFnEZ8FVVO2KB/2263b03f7acee8ef5de9eebb50f55ae9/overleaf-o-logo-white.png" height="80" width="80" alt="Overleaf"/>
     </td>
   </tr>
 </table>
