@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Ali Kookani</h1>
-<h3 align="center">A passionate Artificial Intelligence Researcher</h3>
+<h3 align="center">Doctoral Researcher</h3>
 
 
 
