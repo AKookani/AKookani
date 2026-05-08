@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Kookani</h1>
+<h1 align="center">Ali Kookani</h1>
 <h3 align="center">Doctoral Researcher | AI for Quantum Simulation</h3>
 
 ---
