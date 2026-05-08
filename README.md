@@ -8,7 +8,7 @@
 </h2>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="50"/>
 </p>
 
 ---
