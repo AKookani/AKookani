@@ -25,7 +25,7 @@
       <img src="https://qutip.org/images/logo.png" height="80" width="100" alt="QuTiP"/>
     </td>
     <td>
-      <img src="https://drive.google.com/file/d/1xCN51PPDBRDC1y5EEZJ62ly2vxyD7TA3/view?usp=sharing" height="80" width="80" alt="CUDA‑Q"/>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbZSGY_BvD_8HcuBj7HnrfRO1FByKtFpXKyw&s" height="80" width="80" alt="CUDA‑Q"/>
     </td>
   </tr>
 </table>
