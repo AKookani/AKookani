@@ -25,7 +25,7 @@
       <img src="https://qutip.org/images/logo.png" height="80" width="100" alt="QuTiP"/>
     </td>
     <td>
-      <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2021/04/cuquantum-featured_1.png" height="80" width="100" alt="CUDA‑Q"/>
+      <img src="https://drive.google.com/file/d/1xCN51PPDBRDC1y5EEZJ62ly2vxyD7TA3/view?usp=sharing" height="80" width="80" alt="CUDA‑Q"/>
     </td>
   </tr>
 </table>
