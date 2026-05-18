@@ -24,6 +24,9 @@
     <td>
       <img src="https://qutip.org/images/logo.png" height="80" width="80" alt="QuTiP"/>
     </td>
+    <td>
+      <img src="[https://qutip.org/images/logo.png](https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/nvidia-cuquantum-icon.svg)" height="80" width="80" alt="CUDA‑Q"/>
+    </td>
   </tr>
 </table>
 
