@@ -22,10 +22,10 @@
       <img src="https://miro.medium.com/v2/resize:fit:880/1%2AUu8yeBgCb0QRWw7HETGSJw.png" height="80" width="80" alt="Qiskit"/>
     </td>
     <td>
-      <img src="https://qutip.org/images/logo.png" height="80" width="80" alt="QuTiP"/>
+      <img src="https://qutip.org/images/logo.png" height="80" width="100" alt="QuTiP"/>
     </td>
     <td>
-      <img src="[https://qutip.org/images/logo.png](https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/nvidia-cuquantum-icon.svg)" height="80" width="80" alt="CUDA‑Q"/>
+      <img src="https://developer-blogs.nvidia.com/wp-content/uploads/2021/04/cuquantum-featured_1.png" height="80" width="100" alt="CUDA‑Q"/>
     </td>
   </tr>
 </table>
