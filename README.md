@@ -1,5 +1,5 @@
 <h1 align="center">Ali Kookani</h1>
-<h3 align="center">Doctoral Researcher | AI for Quantum Simulation | Many-body Quantum</h3>
+<h3 align="center">Doctoral Researcher | AI for Quantum Simulation</h3>
 
 ---
 
