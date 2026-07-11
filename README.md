@@ -28,7 +28,7 @@
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbZSGY_BvD_8HcuBj7HnrfRO1FByKtFpXKyw&s" height="80" width="80" alt="CUDA‑Q"/>
     </td>
     <td>
-      <img src="https://www.youtube.com/@GoogleQuantumAI/videos" height="80" width="80" alt="Google Quantum AI"/>
+      <img src="https://avatars.githubusercontent.com/u/31279789?s=200&v=4" height="80" width="80" alt="Google Quantum AI"/>
     </td>
   </tr>
 </table>
