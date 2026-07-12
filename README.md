@@ -18,6 +18,9 @@
     <td>
       <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="80" width="80" alt="TensorFlow"/>
     </td>
+  </tr>
+
+  <tr>
     <td>
       <img src="https://miro.medium.com/v2/resize:fit:880/1%2AUu8yeBgCb0QRWw7HETGSJw.png" height="80" width="80" alt="Qiskit"/>
     </td>
